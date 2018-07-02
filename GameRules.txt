@@ -1,0 +1,13 @@
+Two players each start with one piece at the bottom left and bottom right of the game board._ 
+To decide who gets the first turn, play a game of rock paper scissors._
+Each turn, the player can move a piece up to 2 spaces in the allowed direction_
+(bottom left starting piece can only move up or right_
+bottom right starting piece can only move up or left)._ 
+The first player to reach the opposite corner of a piece's starting place wins._
+
+If a player moves a piece on top of the other piece, a confrontation occurs._
+The player that moved onto the other piece has a 2/3 chance to win the confrontation_ 
+while the other player has a 1/3 chance to win._
+To decide the outcome of the confrontation, a die is rolled. If a number between and including 1 and 4 appears, the challenger wins,_
+while the other player will win if the number is either 5 or 6. The loser of the confrontation moves back to their starting place.
+
