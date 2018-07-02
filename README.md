@@ -1,2 +1,2 @@
 # Data-Management-Game
-Board game based on probability
+GUI based probability board game made with Java
